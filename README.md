@@ -5,8 +5,7 @@ A community-driven collection of FMGE-oriented Anki decks, PYQs, and high-yield 
 ## Contents
 
 - OBGYN
--      PYQs
--      Knowledge Islands
+-      PYQs & nowledge Islands
 <img width="1364" height="766" alt="github2" src="https://github.com/user-attachments/assets/01b7339a-8167-44b5-9f2d-48f735531b6e" />
 
 
